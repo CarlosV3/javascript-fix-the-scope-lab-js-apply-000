@@ -23,6 +23,6 @@ var funkyFunction = function() {
     return "FUNKY!";
   };
 };
-
+var theFunk = funkyFunction()();
 
   // Feel free to move things around!
